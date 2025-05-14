@@ -1,7 +1,4 @@
----
-subtitle: "[]{#_ws3n5yfypyj .anchor}Mariana Rojas (CRN 67558)"
-title: "[]{#_hah77m82os26 .anchor}MIST 5620 Project Report"
----
+## MIST5620 Final Project
 
 ### Allison Keonhothy (811816282)
 
